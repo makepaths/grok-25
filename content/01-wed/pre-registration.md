@@ -1,5 +1,6 @@
 ---
 title: Pre-registration
+description: welcome!
 ---
 
 Join us for the Grok Pre-registration Social at 6:30pm, held at Atlas Local:
