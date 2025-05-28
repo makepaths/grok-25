@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "title": "Grok '25",
+  "slug": "25",
+  "description": "Unbreak the Internet",
+  "root": "./path.md",
+  "publish": {
+    "url": "https://grok.path.app",
+    "key": "<grok-25-publish-key>"
+  }
+}
