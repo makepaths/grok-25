@@ -1,0 +1,30 @@
+# This is the grok map which defines the core models and actions that make up the Grok LX
+models: # These map to node types/props
+  path:
+    label: Path # The visible label of the object
+    children: step, path # what kind of child nodes are allowed
+    schema: ./path.json # link to a JSON schema file (openai version)
+  step:
+    label: Step
+    children: block
+    schema: ./step.json
+  block:
+    label: Block
+    schema: ./block.json
+  moment:
+    label: Moment
+    schema: ./moment.json
+
+# These are the actions that players/learners can take
+actions: # These map to edge types/props
+  share:
+    label: Share
+    prompt: Share your favorite Grok moments with the world
+    schema: ./share.json
+    from: block
+    to: moment
+
+# The root node of the graph/space
+space: # this configures the root space tree (map view)
+  root: path
+  enableMap: no # Turn the zoomed out map on/off

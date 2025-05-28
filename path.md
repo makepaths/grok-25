@@ -3,6 +3,7 @@ title: Grok '25 Path
 description: Unbreak the internet.
 slug: 25
 version: 1.1
+map: map/grok-map.yaml
 ---
 
 - Wednesday Pre-registration

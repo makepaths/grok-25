@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the path"
+    },
+    "slug": {
+      "type": "string",
+      "description": "The slug of the path"
+    }
+  }
+}
