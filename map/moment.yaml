@@ -1,0 +1,15 @@
+# JSON schema for the path node
+path:
+  type: object
+  additionalProperties: no
+  properties:
+    meta:
+      type: object
+      additionalProperties: no
+      properties:
+        title:
+          type: string
+        description:
+          type: string
+    required:
+      - title

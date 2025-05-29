@@ -3,6 +3,7 @@
   "paths": {
     "grok-25": "path.md"
   },
+  "components": "./components",
   "publish": {
     "url": "https://grok.path.app",
     "key": "<grok-25-publish-key>"
