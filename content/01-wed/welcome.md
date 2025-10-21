@@ -4,9 +4,15 @@ title: Welcome
 
 Hi there! 👋
 
-We're so glad you're coming to Grok. Consider this path your conference tour guide. Here you'll find everything you need to know about the what-where-who-when of each day at Grok, including:
+We're so glad you're coming to Grok. Consider this path your conference tour guide.
 
-✅ a live conference schedule so you know where to be and when ✅ some tips for 10/20s and where to sign up ✅ info on each keynote speaker ✅ additional things to do Thursday evening ✅ a party favor bag of sponsor perks
+Here you'll find everything you need to know about the what-where-who-when of each day at Grok, including:
+
+- ✅ a live conference schedule so you know where to be and when
+- ✅ some tips for 10/20s and where to sign up
+- ✅ info on each keynote speaker
+- ✅ additional things to do Thursday evening
+- ✅ a party favor bag of sponsor perks
 
 ---
 
